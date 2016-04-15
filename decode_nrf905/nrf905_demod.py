@@ -2,7 +2,7 @@
 ##################################################
 # Gnuradio Python Flow Graph
 # Title: NRF905 Demodulator
-# Author: David Imhoff <dimhoff_devel@xs4all.nl>
+# Author: David Imhoff <dimhoff.devel@gmail.com>
 # Description: Demodulate the GFSK modulated signal send by a NRF905 transceiver
 # Generated: Sun Jun 22 13:25:08 2014
 ##################################################
